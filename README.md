@@ -1,16 +1,26 @@
-### Hi there 👋
+### Greetings fellow lifeforms 🏳🤖🖖
 
-<!--
-**Legoplayer/Legoplayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏫 I'm currently studying web development at Mid Sweden University  
+🔜 Where full-stack developer is the goal
 
-Here are some ideas to get you started:
+## Known languages  
+🗣 Spoken languages:
+  * Swedish
+  * English
+  * Farsi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Programming languages:
+  * HTML
+  * CSS
+  * JavaScript
+  * Markdown
+
+## Currently learning
+🦋
+* PHP
+* SQL
+🦎
+
+
+## Contact
+**Email:** Babak.jameei@gmail.com
