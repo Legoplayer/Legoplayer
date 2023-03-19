@@ -18,7 +18,7 @@
 ## Currently learning
  🦋
 * PHP
-* SQL  
+* SQL
 🦎
 
 
