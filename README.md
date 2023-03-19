@@ -15,8 +15,8 @@
   * JavaScript
   * Markdown
 
-## Currently learning
-🦋  
+## Currently learning  
+>🦋
 * PHP
 * SQL  
 🦎
