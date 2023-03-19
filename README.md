@@ -16,10 +16,10 @@
   * Markdown
 
 ## Currently learning  
->🦋
+  🦋
 * PHP
 * SQL  
-🦎
+  🦎
 
 
 ## Contact
