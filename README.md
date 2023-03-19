@@ -16,7 +16,7 @@
   * Markdown
 
 ## Currently learning
-🦋
+ 🦋
 * PHP
 * SQL  
 🦎
