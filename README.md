@@ -1,4 +1,4 @@
-### Greetings fellow lifeforms 🏳🤖🖖
+### Greetings fellow lifeforms 🖖🤖🏳
 
 🏫 I'm currently studying web development at Mid Sweden University  
 🔜 Where full-stack developer is the goal
